@@ -4,7 +4,7 @@
 
 <h3> :computer: About Me</h3>
 
-I'm currently in the process of transitioning my career and I'm studying to become a full stack developer, for some time I was uneasy with my professional career and now I've found something I finally like, developing web systems. 
+I'm currently in the process of transitioning my career and I'm studying to become a full stack developer, for some time I was unhappy with my professional career and now I've found something I finally like, developing web systems. 
 
 <h3>:hammer_and_wrench: Tech Stack </h3>
 
