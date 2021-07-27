@@ -31,7 +31,7 @@ I'm currently in the process of transitioning my career and I'm studying to beco
   
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/igudgz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igudgz&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igudgz&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
