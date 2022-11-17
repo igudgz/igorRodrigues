@@ -15,6 +15,7 @@ I currently work as a full-stack developer at Globo. I work with Golang (Back-en
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Golang](https://img.shields.io/badge/-Golang-blue)
   
 
 - 🛢 &nbsp;
